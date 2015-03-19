@@ -16,7 +16,7 @@ namespace CIDemo
             TheSum = x + y;
 
             // Uh-oh, a bug!
-            //TheSum++;
+            TheSum++;
         }
     }
 }
